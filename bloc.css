@@ -1,0 +1,43 @@
+body{
+
+    
+    background-color: darkgreen;
+}
+img{
+
+    width: 100%;
+}
+.section1{   
+}
+.tout{
+    display: flex;
+    flex-wrap: wrap;
+   
+    gap: 2px;
+    margin: auto;
+  
+}
+
+.blo{
+   
+    background-color: aquamarine;
+    border: 1px solid;
+    height: 220px;
+    width: 47%;
+    margin: 5px;
+}
+h2{
+    text-align: center;
+}
+.titre{
+    transform: rotate(90deg);
+    padding-bottom: 10%;
+    
+}
+#back{
+background-color: blue;
+border-radius: 50%;
+width: 80px;
+height: 80px;
+margin-left: 45%;
+}
